@@ -1,0 +1,6 @@
+C:\Users\MM\source\repos\HomeWorkAdvanced1\ClassesInterfaceses\bin\Debug\ClassesInterfaceses.dll
+C:\Users\MM\source\repos\HomeWorkAdvanced1\ClassesInterfaceses\bin\Debug\ClassesInterfaceses.pdb
+C:\Users\MM\source\repos\HomeWorkAdvanced1\ClassesInterfaceses\obj\Debug\ClassesInterfaceses.csprojAssemblyReference.cache
+C:\Users\MM\source\repos\HomeWorkAdvanced1\ClassesInterfaceses\obj\Debug\ClassesInterfaceses.csproj.CoreCompileInputs.cache
+C:\Users\MM\source\repos\HomeWorkAdvanced1\ClassesInterfaceses\obj\Debug\ClassesInterfaceses.dll
+C:\Users\MM\source\repos\HomeWorkAdvanced1\ClassesInterfaceses\obj\Debug\ClassesInterfaceses.pdb

@@ -1,0 +1,10 @@
+C:\Users\MM\source\repos\HomeWorkAdvanced1\HomeWorkAdvanced1\bin\Debug\HomeWorkAdvanced1.exe.config
+C:\Users\MM\source\repos\HomeWorkAdvanced1\HomeWorkAdvanced1\bin\Debug\HomeWorkAdvanced1.exe
+C:\Users\MM\source\repos\HomeWorkAdvanced1\HomeWorkAdvanced1\bin\Debug\HomeWorkAdvanced1.pdb
+C:\Users\MM\source\repos\HomeWorkAdvanced1\HomeWorkAdvanced1\bin\Debug\ClassesInterfaceses.dll
+C:\Users\MM\source\repos\HomeWorkAdvanced1\HomeWorkAdvanced1\bin\Debug\ClassesInterfaceses.pdb
+C:\Users\MM\source\repos\HomeWorkAdvanced1\HomeWorkAdvanced1\obj\Debug\HomeWorkAdvanced1.csprojAssemblyReference.cache
+C:\Users\MM\source\repos\HomeWorkAdvanced1\HomeWorkAdvanced1\obj\Debug\HomeWorkAdvanced1.csproj.CoreCompileInputs.cache
+C:\Users\MM\source\repos\HomeWorkAdvanced1\HomeWorkAdvanced1\obj\Debug\HomeWorkAdvanced1.csproj.CopyComplete
+C:\Users\MM\source\repos\HomeWorkAdvanced1\HomeWorkAdvanced1\obj\Debug\HomeWorkAdvanced1.exe
+C:\Users\MM\source\repos\HomeWorkAdvanced1\HomeWorkAdvanced1\obj\Debug\HomeWorkAdvanced1.pdb
