@@ -1,0 +1,10 @@
+C:\Users\MM\source\repos\CarAndGasStation\CarAndGasStation\bin\Debug\CarAndGasStation.exe.config
+C:\Users\MM\source\repos\CarAndGasStation\CarAndGasStation\bin\Debug\CarAndGasStation.exe
+C:\Users\MM\source\repos\CarAndGasStation\CarAndGasStation\bin\Debug\CarAndGasStation.pdb
+C:\Users\MM\source\repos\CarAndGasStation\CarAndGasStation\bin\Debug\ClassLibrary1.dll
+C:\Users\MM\source\repos\CarAndGasStation\CarAndGasStation\bin\Debug\ClassLibrary1.pdb
+C:\Users\MM\source\repos\CarAndGasStation\CarAndGasStation\obj\Debug\CarAndGasStation.csprojAssemblyReference.cache
+C:\Users\MM\source\repos\CarAndGasStation\CarAndGasStation\obj\Debug\CarAndGasStation.csproj.CoreCompileInputs.cache
+C:\Users\MM\source\repos\CarAndGasStation\CarAndGasStation\obj\Debug\CarAndGasStation.csproj.CopyComplete
+C:\Users\MM\source\repos\CarAndGasStation\CarAndGasStation\obj\Debug\CarAndGasStation.exe
+C:\Users\MM\source\repos\CarAndGasStation\CarAndGasStation\obj\Debug\CarAndGasStation.pdb
