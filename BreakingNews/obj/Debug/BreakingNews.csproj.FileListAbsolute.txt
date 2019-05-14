@@ -1,0 +1,7 @@
+C:\Users\MM\Desktop\sedc7-06-csharpadvanced-master\g2\Class 5\BreakingNews\BreakingNews\bin\Debug\BreakingNews.exe.config
+C:\Users\MM\Desktop\sedc7-06-csharpadvanced-master\g2\Class 5\BreakingNews\BreakingNews\bin\Debug\BreakingNews.exe
+C:\Users\MM\Desktop\sedc7-06-csharpadvanced-master\g2\Class 5\BreakingNews\BreakingNews\bin\Debug\BreakingNews.pdb
+C:\Users\MM\Desktop\sedc7-06-csharpadvanced-master\g2\Class 5\BreakingNews\BreakingNews\obj\Debug\BreakingNews.csprojAssemblyReference.cache
+C:\Users\MM\Desktop\sedc7-06-csharpadvanced-master\g2\Class 5\BreakingNews\BreakingNews\obj\Debug\BreakingNews.csproj.CoreCompileInputs.cache
+C:\Users\MM\Desktop\sedc7-06-csharpadvanced-master\g2\Class 5\BreakingNews\BreakingNews\obj\Debug\BreakingNews.exe
+C:\Users\MM\Desktop\sedc7-06-csharpadvanced-master\g2\Class 5\BreakingNews\BreakingNews\obj\Debug\BreakingNews.pdb
