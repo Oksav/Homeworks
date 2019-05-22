@@ -19,6 +19,7 @@
 --where EnrolledDate LIKE '1998-01%'
 
 --select * 
+--from Student
 --where LastName LIKE 'T%' and EnrolledDate LIKE '1998-01%'
 
 --select * 
