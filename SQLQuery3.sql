@@ -77,7 +77,17 @@ use SEDCHome
 --select * from vv_StudentGrades
 --order by Total desc
 
+--create view vv_StudentGradeDetails
+--as 
+--select s.FirstName as FirstName, s.LastName as LastName, COUNT(a.ID) as Total
+--from Student s
+--inner join Grade g on s.ID = g.StudentID
+--inner join GradeDetails gd on g.ID = gd.GradeID
+--inner join AchievementType a on gd.AchievementTypeID = a.ID
+--where a.ID = 5
+--group by s.FirstName, s.LastName
 
 
---Create new view (vv_StudentGradeDetails) that will List all Students (FirstName and LastName) and Count the courses he passed through the exam(Ispit
--- poslednovo go nema
+
+--select * from vv_StudentGradeDetails
+
