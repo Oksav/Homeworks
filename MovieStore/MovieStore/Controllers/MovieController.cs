@@ -70,6 +70,7 @@ namespace MovieStore.Controllers
         }
 
         [HttpPost]
+        [Route("FoundIt")]
         public IActionResult SaveChanges(MovieModel model)
         {
             if(!ModelState.IsValid)

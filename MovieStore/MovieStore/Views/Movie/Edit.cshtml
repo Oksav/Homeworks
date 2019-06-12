@@ -5,7 +5,7 @@
 
 <h2>Edit</h2>
 
-@using (Html.BeginRouteForm("SaveRoute","SaveChanges", FormMethod.Post))
+@using (Html.BeginRouteForm("SaveRoute",new { action = "FoundIt" }, FormMethod.Post))
 {
    @Html.ValidationSummary();
     @Html.HiddenFor(x => x.ID);
