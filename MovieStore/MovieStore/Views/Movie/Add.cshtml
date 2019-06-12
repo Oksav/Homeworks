@@ -1,0 +1,43 @@
+﻿@model MovieModel
+@{
+    ViewData["Title"] = "Add";
+}
+
+<h2>Add</h2>
+
+@using (Html.BeginForm("Add", "Movie", FormMethod.Post))
+{
+    @Html.ValidationSummary();
+    <div class="form-group">
+        @Html.LabelFor(x => x.ID, new { @class = "form-label" })
+        @Html.TextBoxFor(x => x.ID, new { @class = "form-label" })
+        @Html.ValidationMessageFor(x => x.ID, "", new { @class = "label-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(x => x.MovieName, new { @class = "form-label" })
+        @Html.TextBoxFor(x => x.MovieName, new { @class = "form-label" })
+        @Html.ValidationMessageFor(x => x.MovieName, "", new { @class = "label-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(x => x.Year, new { @class = "form-label" })
+        @Html.TextBoxFor(x => x.Year, new { @class = "form-label" })
+        @Html.ValidationMessageFor(x => x.Year)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(x => x.Length, new { @class = "form-label" })
+        @Html.TextBoxFor(x => x.Length, new { @class = "form-label" })
+        @Html.ValidationMessageFor(x => x.Length)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(x => x.TicketPrice, new { @class = "form-label" })
+        @Html.TextBoxFor(x => x.TicketPrice, new { @class = "form-label" })
+        @Html.ValidationMessageFor(x => x.TicketPrice)
+    </div>
+
+    <input value="Save" type="submit" />
+}
+
