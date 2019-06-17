@@ -1,0 +1,141 @@
+{
+    "Users": [{
+            "name": "John",
+            "surname": "Doe",
+            "gender": "male",
+            "phone": "(123) 555 1234",
+            "birthday": "19/06/1987",
+            "email": "john.doe@example.com",
+            "password": "Doe87",
+            "createdID": "dg2ht",
+            "goingeventID": "null"
+
+        },
+        {
+            "name": "Jasminne",
+            "surname": "Hell",
+            "gender": "female",
+            "phone": "(123) 555 7890",
+            "birthday": "19/06/1994",
+            "email": "Jasmine.hell@example.com",
+            "password": "jasmine",
+            "goingeventID": "dg2ht",
+            "createdID": "null"
+
+        },
+        {
+            "name": "Richard",
+            "surname": "Green",
+            "gender": "male",
+            "phone": "(234) 555 6852",
+            "birthday": "19/06/1964",
+            "email": "Richard.green@example.com",
+            "password": "green123",
+            "goingeventID": "null",
+            "createdID": "2v5e"
+
+        },
+        {
+            "name": "Merry",
+            "surname": "tylor",
+            "gender": "female",
+            "phone": "(521) 555 5679",
+            "birthday": "19/06/1987",
+            "email": "Merry.tylor@example.com",
+            "password": "tylor13",
+            "goingeventID": "2v5e",
+            "createdID": "null"
+
+        },
+        {
+            "name": "Chiu",
+            "surname": "Thung",
+            "gender": "male",
+            "phone": "(643) 555 51235",
+            "birthday": "19/06/1975",
+            "email": "Chiu.Thung@example.com",
+            "password": "Thung12",
+            "goingeventID": "2v5e",
+            "createdID": "null"
+
+        },
+        {
+            "name": "Jadranka",
+            "surname": "Dimov",
+            "gender": "female",
+            "phone": "(521) 555 5679",
+            "birthday": "19/06/1994",
+            "email": "Jadranka.Dimov@example.com",
+            "password": "Jadranka",
+            "goingeventID": "null",
+            "createdID": "null"
+
+        },
+        {
+            "name": "Gomez",
+            "surname": "Fernandez",
+            "gender": "Male",
+            "phone": "(512) 555 123",
+            "birthday": "19/06/1987",
+            "email": "Gomez.Gomez@example.com",
+            "password": "Gomez123",
+            "goingeventID": "null",
+            "createdID": "ve125"
+
+        }
+    ],
+
+
+    "Events": [{
+            "eventName": "Swimming",
+            "eventDescription": "Tomorow at 8am am going for swim in Greece.",
+            "startDate": "2019-07-05",
+            "endDate": "2019-07-05",
+            "eventLocation": "Greece",
+            "departureLocation": "50 Divizija br.6",
+            "eventSpots": "4",
+            "eventID": "0x223a"
+        },
+        {
+            "eventName": "Hill Of Rock",
+            "eventDescription": "Music Festival",
+            "startDate": "29-07-2019",
+            "endDate": "02-08-2019",
+            "eventLocation": "Bulbaria",
+            "departureLocation": "50 Divizija br.6",
+            "eventSpots": "3",
+            "eventID": "0000"
+        },
+        {
+            "eventName": "Skopje Open Air Festival",
+            "eventDescription": "For first time in skopje is happening festival with this kind of line-up and so much things to do. We will have playroom with competition in FIFA 19 , NBA2k19 and other games then it will be movie room, dodgeball contest , ping pong , street-basket. We will update you for the line-up bands and musicians",
+            "startDate": "25-10-2019",
+            "endDate": "28-10-2019",
+            "eventLocation": "Skopje",
+            "departureLocation": "Skopje",
+            "eventSpots": "14523",
+            "eventID": "1111"
+        },
+        {
+            "eventName": "Hiking on Galicica",
+            "eventDescription": "Hiking adventure, on the mountain Galicica, hanging out with people and making some barbaque.",
+            "startDate": "08-09-2019",
+            "endDate": "08-09-2019",
+            "eventLocation": "Mountain Galicica",
+            "departureLocation": "Skopje Train Station",
+            "eventSpots": "52",
+            "eventID": "faa351x"
+        },
+        {
+            "eventName": "Running Hills on Vodno",
+            "eventDescription": "Race to the top of the mountain Vodno, with price pool for first, second and third place.",
+            "startDate": "09-05-2019",
+            "endDate": "09-05-2019",
+            "eventLocation": "Vodno",
+            "departureLocation": "General Hospital",
+            "eventSpots": "99",
+            "eventID": "saf@41s"
+        }
+    ]
+
+}
